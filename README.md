@@ -1,3 +1,5 @@
+#Google Doc to HTML
+
 This is a Google Apps Script to convert a Google Document to clean HTML. Here's a breakdown of the key parts:
 
 **ConvertGoogleDocToCleanHtml**: This is the main function which reads the active Google Document's content, processes each child element (paragraph, image, list, etc.) to HTML format using processItem, and then saves the HTML to Google Drive using saveHtmlToDrive.
