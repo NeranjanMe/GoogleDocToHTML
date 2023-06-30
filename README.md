@@ -1,4 +1,4 @@
-#Google Doc to HTML
+*Google Doc to HTML*
 
 This is a Google Apps Script to convert a Google Document to clean HTML. Here's a breakdown of the key parts:
 
